@@ -2,7 +2,7 @@ def second_challenge
   epic_tragedy = {
     :montague => {
       #your key/value pairs here!
-      :patriarch => {  
+      :patriarch => {
       :name => "Lord Montague",
       :age => "53"
   },
@@ -26,7 +26,7 @@ def second_challenge
         :attitude => "hot-headed"
       }
     ]
-      
+
       },
     :capulet => {
       #your key/value pairs here!
@@ -56,8 +56,8 @@ def second_challenge
       }
     ]
   }
-      
-      
+
+
   }
 
 
