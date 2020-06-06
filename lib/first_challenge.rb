@@ -7,7 +7,7 @@ def first_challenge
        }
      },
      :capulet =>{
-       : patriarch => {
+       :patriarch => {
          :name => "Lord Capulet",
          :age => "50"
        }
